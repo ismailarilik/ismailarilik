@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer and specialized with DevOps and Frontend development but I am also interested with Python, Django, Ruby and Ruby on Rails.
+I am a **software engineer** and specialized with **Frontend** development with **DevOps** but I am also interested with **Python**, **Django**, **Ruby** and **Ruby on Rails**.
 
 I am currently seeking a job so you can hire me if I can be useful for you.
 
