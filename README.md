@@ -33,3 +33,10 @@ I am **always open to new exciting opportunities** so you can hire me if you thi
 <img src="https://github-readme-stats.vercel.app/api?username=ismailarilik&show_icons=true&theme=radical" alt="ismailarilik GitHub Stats" width="480" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimcan&layout=compact&hide=html&theme=radical" alt="ismailarilik GitHub Stats Top Languages"/>
 </p>
+
+<hr/>
+
+#### Attributions for this profile page
+
+- Ikigai image from [https://github.com/laraone/ikigai](https://github.com/laraone/ikigai)
+- General idea from [https://github.com/azimcan](https://github.com/azimcan)
