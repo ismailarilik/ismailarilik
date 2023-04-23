@@ -20,7 +20,7 @@ I am **always open to new exciting opportunities** so you can hire me if you thi
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://mastodon.social/@ismailarilik" target="_blank" rel="me">
+<a href="https://mastodon.social/@ismailarilik" target="_blank" rel="nofollow me">
   <img src="https://joinmastodon.org/logos/logo-purple.svg" width="30"/>
 </a>
 &nbsp;
