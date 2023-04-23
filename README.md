@@ -20,15 +20,15 @@ I am **always open to new exciting opportunities** so you can hire me if you thi
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://mastodon.social/@ismailarilik" target="_blank" rel="nofollow me">
+<a href="https://mastodon.social/@ismailarilik" target="_blank">
   <img src="https://joinmastodon.org/logos/logo-purple.svg" width="30"/>
 </a>
 &nbsp;
-<a href="https://www.twitter.com/ismailarilik" target="_blank" rel="noopener noreferrer">
+<a href="https://www.twitter.com/ismailarilik" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/ismailarilik/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ismailarilik/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
 
