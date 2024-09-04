@@ -38,9 +38,12 @@ I am **always open to new exciting opportunities** so you can hire me if you thi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimcan&layout=compact&hide=html&theme=radical" alt="ismailarilik GitHub Stats Top Languages"/>
 </p>
 
+![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif)
+
 <hr/>
 
 #### Attributions for this profile page
 
 - Ikigai image from [https://github.com/laraone/ikigai](https://github.com/laraone/ikigai)
 - General idea from [https://github.com/azimcan](https://github.com/azimcan)
+- Animated Ferris from [Weihang Lo](https://github.com/weihanglo) and [Behance](https://www.behance.net/gallery/42774743/Rustacean)
