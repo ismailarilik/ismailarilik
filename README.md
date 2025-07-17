@@ -15,7 +15,7 @@ I am **always open to new exciting opportunities** so you can hire me if you thi
 <h3> 🛠 Tech Kit </h3>
 
 - 💻 &nbsp; **JavaScript** | **Ruby** | Python | PHP
-- 🌐 &nbsp; **Vue.js** | React | **Ruby on Rails** | Django | Laravel
+- 🌐 &nbsp; **React/Next.js** | **Vue.js** | **Ruby on Rails** | Django | Laravel
 - 🔧 &nbsp; **Vite** | Webpack | **Hotwire**
 
 <h3> 🤝🏻 Connect with Me </h3>
